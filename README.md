@@ -12,7 +12,7 @@
 # Description
   Users want to be able to easily take, store, and read notes. This application provides a space for them to type in a note, a column that holds saved notes, and the ability to edit and delete previously created notes.
 
-Visit the finished product here: https://tessshearer.github.io/Password-Generator/
+Visit the finished product here: https://tess-note-taker.herokuapp.com/
 Finished GitHub Repository: https://github.com/TessShearer/hw-note-taker
 
 
